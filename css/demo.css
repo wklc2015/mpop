@@ -1,0 +1,20 @@
+@charset "utf-8";
+.demo{
+    height: 80px;
+    padding: 10px 0;
+    text-align: center;
+}
+.demo button{
+    display: inline-block;
+    width: 80%;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    border: none;
+    background-color: #00578d;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+}
